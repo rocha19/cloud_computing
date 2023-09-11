@@ -170,4 +170,9 @@ Armazenamento de dados confidenciais: Pode gerar preocupações de segurança pa
 ### Vantagens
 ### Desvantagens
 
-[Reference]("https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-145.pdf")
+# References
+
+[NIST]("https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-145.pdf")
+[AWS]("https://aws.amazon.com/pt/types-of-cloud-computing/")
+[IBM]("https://www.ibm.com/topics/iaas-paas-saas?mhsrc=ibmsearch_a&mhq=Saas")
+[Google Cloud]("https://cloud.google.com/learn/paas-vs-iaas-vs-saas?hl=pt-br")
