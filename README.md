@@ -53,99 +53,83 @@ Timothy Grance
     Híbirda - União pública e privada
 
 ## IaaS (Infraestrutura como Serviço)
-
+### O que é?
 ### Vantagens
-
 ### Desvantagens
 
 ## PaaS (Plataforma como Serviço)
-
+### O que é?
 ### Vantagens
-
 ### Desvantagens
 
 ## SaaS (Software como Serviço)
-
+### O que é?
 ### Vantagens
-
 ### Desvantagens
 
 ## FaaS (Função como Serviço)
-
+### O que é?
 ### Vantagens
-
 ### Desvantagens
 
 ## BaaS (Backend como Serviço)
-
+### O que é?
 ### Vantagens
-
 ### Desvantagens
 
 ## DBaaS (Banco de Dados como Serviço)
-
+### O que é?
 ### Vantagens
-
 ### Desvantagens
 
 ## CaaS (Contêiner como Serviço)
-
+### O que é?
 ### Vantagens
-
 ### Desvantagens
 
 ## DaaS (Desktop como Serviço)
-
+### O que é?
 ### Vantagens
-
 ### Desvantagens
 
 ## SECaaS (Segurança como Serviço)
-
+### O que é?
 ### Vantagens
-
 ### Desvantagens
 
 ## DRaaS (Recuperação de Desastres como Serviço)
-
+### O que é?
 ### Vantagens
-
 ### Desvantagens
 
 ## NaaS (Rede como Serviço)
-
+### O que é?
 ### Vantagens
-
 ### Desvantagens
 
 ## AIaaS (Inteligência Artificial como Serviço)
-
+### O que é?
 ### Vantagens
-
 ### Desvantagens
 
 ## STaaS (Armazenamento como Serviço)
-
+### O que é?
 ### Vantagens
-
 ### Desvantagens
 
 ## NaaS (Rede como Serviço)
-
+### O que é?
 ### Vantagens
-
 ### Desvantagens
 
 ## IoTaaS (Internet das Coisas como Serviço)
-
+### O que é?
 ### Vantagens
-
 ### Desvantagens
 
 ## Analytics as a service
-
+### O que é?
 ### Vantagens
-
 ### Desvantagens
 
 [Reference]("https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-145.pdf")
