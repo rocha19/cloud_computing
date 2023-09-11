@@ -25,7 +25,6 @@ Timothy Grance
     10. ...
 
 ## Definição de Cloud Computing
-
 ### On-demand self-service
 
     Oferecer provicionamento de recursos e gerenciamento sempre que necessario.
@@ -47,7 +46,6 @@ Timothy Grance
     O uso de recursos podem ser monitorados, controlado e relatado, fornecendo transparência tanto para o provedor como para o consumidor.
 
 ## Nuvem Pública, Privada e Híbrida
-
 ### Pública - Serviço externo
     Uma aplicação baseada na nuvem é totalmente implantada na nuvem e todos os aspectos da aplicação são executados nela. As aplicações na nuvem ou foram criadas nela ou foram migradas de uma infraestrutura prévia para usufruírem dos benefícios da computação em nuvem. As aplicações baseadas na nuvem podem se beneficiar de fragmentos secundários da infraestrutura ou podem utilizar serviços de nível superior que reduzem as necessidades de gerenciamento, arquitetura e escalabilidade da infraestrutura principal.
 
@@ -58,7 +56,6 @@ Timothy Grance
     Uma implantação híbrida é uma maneira de conectar infraestrutura e aplicações entre recursos da Web e recursos atuais que não se encontram na nuvem. O método mais comum de implantação híbrida é o que ocorre entre a nuvem e a infraestrutura local atual para estender e aumentar a infraestrutura de uma empresa na nuvem enquanto recursos da nuvem são conectados ao sistema interno. Para obter mais informações sobre como a AWS pode ajudar você com a sua implantação híbrida, acesse a nossa página híbrida.
 
 ## IaaS (Infraestrutura como Serviço)
-
 ### O que é?
 A Infraestrutura como um serviço, às vezes abreviada como IaaS, contém os componentes básicos da TI em nuvem e, geralmente, dá acesso (virtual ou no hardware dedicado) a recursos de rede e computadores, como também espaço para o armazenamento de dados. A Infraestrutura como um serviço oferece a você o mais alto nível de flexibilidade e controle de gerenciamento sobre os seus recursos de TI e se assemelha bastante aos recursos de TI atuais com os quais muitos departamentos de TI e desenvolvedores estão familiarizados hoje em dia.
 
@@ -74,7 +71,6 @@ A Infraestrutura como um serviço, às vezes abreviada como IaaS, contém os com
 * Custos variáveis: Os custos podem aumentar com o uso excessivo.
 
 ## PaaS (Plataforma como Serviço)
-
 ### O que é?
 Com a Plataforma como um serviço, as empresas não precisam mais gerenciar a infraestrutura subjacente (geralmente, hardware e sistemas operacionais), permitindo que você se concentre na implantação e no gerenciamento das suas aplicações. Isso o ajuda a tornar-se mais eficiente, pois elimina as suas preocupações com aquisição de recursos, planejamento de capacidade, manutenção de software, correção ou qualquer outro tipo de trabalho pesado semelhante envolvido na execução da sua aplicação.
 
@@ -90,7 +86,6 @@ Com a Plataforma como um serviço, as empresas não precisam mais gerenciar a in
 * Menos flexibilidade em comparação com IaaS.
 
 ## SaaS (Software como Serviço)
-
 ### O que é?
 O Software como um serviço oferece um produto completo, executado e gerenciado pelo provedor de serviços. Na maioria dos casos, as pessoas que se referem ao Software como um serviço estão se referindo às aplicações de usuário final. Com uma oferta de SaaS, não é necessário em como o serviço é mantido ou como a infraestrutura subjacente é gerenciada, você só precisa pensar em como usará este tipo específico de software. Um exemplo comum de aplicação do SaaS é o webmail, no qual você pode enviar e receber e-mails sem precisar gerenciar recursos adicionais para o produto de e-mail ou manter os servidores e sistemas operacionais no qual o programa de e-mail está sendo executado.
 
@@ -107,68 +102,59 @@ Armazenamento de dados confidenciais: Pode gerar preocupações de segurança pa
 
 ## FaaS (Função como Serviço)
 ### O que é?
-### Vantagens
-### Desvantagens
+FaaS, ou Função como Serviço, é um modelo de computação serverless em que os desenvolvedores podem executar funções específicas de forma independente em resposta a eventos, sem se preocupar com a infraestrutura subjacente.
 
-## BaaS (Backend como Serviço)
-### O que é?
 ### Vantagens
+* Escalabilidade automática: As funções são dimensionadas automaticamente em resposta à carga.
+* Custo baseado no uso: Os usuários pagam apenas pelo tempo de execução das funções.
+* Baixa complexidade operacional: Sem gerenciamento de servidores ou infraestrutura.
+* Alta disponibilidade: Geralmente oferece alta disponibilidade e tolerância a falhas.
+
 ### Desvantagens
+* Limitado a funções pequenas: Não é adequado para aplicativos monolíticos.
+* Pode ter latência de inicialização: A primeira execução de uma função pode ter latência de inicialização.
 
 ## DBaaS (Banco de Dados como Serviço)
 ### O que é?
-### Vantagens
-### Desvantagens
+DBaaS, ou Banco de Dados como Serviço, é um modelo em que os provedores de nuvem oferecem bancos de dados gerenciados aos usuários, eliminando a necessidade de configurar e manter servidores de banco de dados.
 
-## CaaS (Contêiner como Serviço)
-### O que é?
 ### Vantagens
+* Gerenciamento simplificado: O provedor cuida de tarefas de gerenciamento, como backups e atualizações.
+* Escalabilidade fácil: Os bancos de dados podem ser dimensionados conforme necessário.
+* Alta disponibilidade: Geralmente oferece alta disponibilidade e replicação de dados.
+* Segurança: O provedor geralmente implementa medidas de segurança robustas.
+
 ### Desvantagens
+* Custos: Os custos podem aumentar à medida que o tamanho do banco de dados ou a demanda por recursos aumentam.
+* Personalização limitada: Pode haver limitações na personalização do banco de dados.
+* Bloqueado em um provedor: A escolha do provedor pode limitar a portabilidade dos dados.
 
 ## DaaS (Desktop como Serviço)
 ### O que é?
-### Vantagens
-### Desvantagens
+DaaS, ou Desktop como Serviço, permite que os usuários acessem desktops virtuais hospedados na nuvem, fornecendo ambientes de trabalho remotos.
 
-## SECaaS (Segurança como Serviço)
-### O que é?
 ### Vantagens
-### Desvantagens
+* Acesso remoto: Os desktops podem ser acessados de qualquer lugar com uma conexão à Internet.
+* Gerenciamento centralizado: Facilita o gerenciamento de desktops e aplicativos.
+* Segurança: Os dados são armazenados na nuvem, reduzindo o risco de perda de dados locais.
+* Escalabilidade: Desktops podem ser adicionados ou removidos conforme necessário.
 
-## DRaaS (Recuperação de Desastres como Serviço)
-### O que é?
-### Vantagens
 ### Desvantagens
+* Dependência de conexão à Internet: A qualidade da experiência depende da largura de banda e da conexão à Internet.
+* Custos contínuos: Geralmente envolve uma taxa recorrente para o uso do serviço.
+* Requisitos de desempenho: Alguns aplicativos podem não funcionar tão bem em desktops virtuais.
 
-## NaaS (Rede como Serviço)
-### O que é?
-### Vantagens
-### Desvantagens
-
-## AIaaS (Inteligência Artificial como Serviço)
-### O que é?
-### Vantagens
-### Desvantagens
-
-## STaaS (Armazenamento como Serviço)
-### O que é?
-### Vantagens
-### Desvantagens
-
-## NaaS (Rede como Serviço)
-### O que é?
-### Vantagens
-### Desvantagens
-
-## IoTaaS (Internet das Coisas como Serviço)
-### O que é?
-### Vantagens
-### Desvantagens
-
-## Analytics as a service
-### O que é?
-### Vantagens
-### Desvantagens
+## Outros serviços de cloud
+1. SECaaS (Segurança como Serviço), 
+2. DRaaS (Recuperação de Desastres como Serviço), 
+3. NaaS (Rede como Serviço), 
+4. AIaaS (Inteligência Artificial como Serviço), 
+5. STaaS (Armazenamento como Serviço), 
+6. NaaS (Rede como Serviço), 
+7. IoTaaS (Internet das Coisas como Serviço), 
+8. Analytics as a service.
+9. BaaS (Backend como Serviço)
+10. CaaS (Contêiner como Serviço)
 
 # References
 
